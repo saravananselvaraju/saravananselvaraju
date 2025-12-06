@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**saravananselvaraju/saravananselvaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Saravanan Selvaraju  
 
-Here are some ideas to get you started:
+🚀 **Software Engineer | Big Data | Cloud Solutions | Data Quality Automation**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building scalable data pipelines, automating data quality checks, and transforming raw data into actionable insights that drive business growth. With hands-on experience in **Databricks, Apache Spark (Scala), Python, SQL, Azure, and AWS**, I specialize in designing robust ETL workflows and cloud-native solutions.  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+- **Big Data & Cloud**: Databricks, Apache Spark, Microsoft Azure, AWS  
+- **Programming**: Python, Scala, SQL  
+- **Data Engineering**: ETL Pipelines, Medallion Architecture
+- **Data Quality**: Automation, Validation, Migration Testing  
+- **Databases**: Hive, Oracle SQL, Spark SQL  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://in.linkedin.com/in/saravanan-selvaraju)  
+
+---
+
+✨ *“Data is not just numbers—it’s the story behind business growth. I love turning that story into reality.”*  
+
+---
